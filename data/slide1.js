@@ -1,3 +1,0 @@
-(function(){var loadHandler=window['sl_{2C72FE4D-686E-4DA1-8C0D-9A6114D1ABED}'];loadHandler&&loadHandler(0, '<div id="spr0_741fd272"><div id="spr1_741fd272" class="kern slide"><img id="img1_741fd272" src="data/img1.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/><div id="svg0_741fd272" style="left:18.2px;top:19.2px;"><svg width="924" height="503" viewBox="0 0 924 503"><path fill="#ffffff" d="M0,0 h923.2 v502.2 h-923.2 Z"/></svg></div></div><div id="spr2_741fd272" class="kern slide"><div id="spr3_741fd272" style="top:18.8px;"><img id="img0_741fd272" src="data/img0.png" width="960" height="502" alt="A close up of a sign\
-\
-Description automatically generated" style="left:-0.096px;top:0.2px;"/></div></div></div>', '{"s":[]}');})();
