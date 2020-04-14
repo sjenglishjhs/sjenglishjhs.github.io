@@ -1,0 +1,7 @@
+(function(){var loadHandler=window['sl_{CAD63E58-6776-4397-A3E3-63A84882AC42}'];loadHandler&&loadHandler(1, '<div id="spr0_743a9324"><div id="spr1_743a9324" class="kern slide"><img id="img4_743a9324" src="data/img1.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/><div id="svg0_743a9324" style="left:18.2px;top:19.2px;"><svg width="924" height="503" viewBox="0 0 924 503"><path fill="#ffffff" d="M0,0 h923.2 v502.2 h-923.2 Z"/></svg></div></div><div id="spr2_743a9324" class="kern slide"><div id="spr3_743a9324" style="left:35.953px;top:93.995px;"><img id="img0_743a9324" src="data/img2.jpg" width="492" height="328" alt="A close up of a logo\
+\
+Description automatically generated" style="left:0.047px;top:-0.129px;"/></div><div id="spr4_743a9324" style="left:532.896px;top:19.716px;"><img id="img1_743a9324" src="data/img3.png" width="362" height="206" alt="A close up of a sign\
+\
+Description automatically generated" style="left:-0.149px;top:0.176px;"/></div><div id="spr5_743a9324" style="left:532.896px;top:241.112px;"><img id="img2_743a9324" src="data/img4.jpg" width="362" height="270" alt="A close up of a toy\
+\
+Description automatically generated" style="left:-0.149px;top:0.036px;"/></div><div id="spr6_743a9324" style="left:27.716px;top:19.716px;"><img id="img3_743a9324" src="data/img5.jpg" width="921" height="501" alt="" style="left:-0.216px;top:-0.216px;"/></div></div></div>', '{"s":[]}');})();
