@@ -1,5 +1,0 @@
-(function(){var loadHandler=window['sl_{CAD63E58-6776-4397-A3E3-63A84882AC42}'];loadHandler&&loadHandler(6, '<div id="spr0_743acd2f"><div id="spr1_743acd2f" class="kern slide"><img id="img2_743acd2f" src="data/img1.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/><div id="svg0_743acd2f" style="left:18.2px;top:19.2px;"><svg width="924" height="503" viewBox="0 0 924 503"><path fill="#ffffff" d="M0,0 h923.2 v502.2 h-923.2 Z"/></svg></div></div><div id="spr2_743acd2f" class="kern slide"><div id="spr3_743acd2f" style="left:86.851px;top:22.396px;"><img id="img0_743acd2f" src="data/img16.png" width="341" height="495" alt="A screenshot of a cell phone\
-\
-Description automatically generated" style="left:0.075px;top:0.104px;"/></div><div id="spr4_743acd2f" style="left:498.4px;top:22.396px;"><img id="img1_743acd2f" src="data/img17.png" width="343" height="495" alt="A screenshot of a cell phone\
-\
-Description automatically generated" style="left:0.076px;top:0.104px;"/></div></div></div>', '{"s":[]}');})();
